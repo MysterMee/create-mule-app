@@ -16,6 +16,5 @@ Note that current development supports Windows only.
 ### Future To-Do
 - Need to resolve issue about transferring json-logger library
 - install script prechecks. Its possible run this multiple times and crowd the bash_profile with duplicate alias
-- Support for multiple templates simultaneously
 - Anypoint CLI driven Downloads with Design Center
 	- However this would probably need automated ~/.anypoint/credentials setup
